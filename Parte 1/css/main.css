@@ -1,0 +1,16 @@
+body {
+	margin: 0;
+}
+
+.yellow, .red {
+	height: 100px;
+}
+
+.yellow {
+	background-color: #FFFF00;
+}
+
+.red {
+	background-color: #FF0000;
+}
+
